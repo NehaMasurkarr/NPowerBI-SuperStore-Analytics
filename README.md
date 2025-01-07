@@ -1,1 +1,1 @@
-# NPowerBI-SuperStore-Analytics
+# PowerBI-SuperStore-Analytics
