@@ -1,1 +1,2 @@
 # PowerBI-SuperStore-Analytics
+This project presents an interactive Power BI dashboard that analyzes and visualizes key business metrics such as Profit, Sales, and Discounts, using data from the SuperStore US 2015 dataset. By applying various filters and dimensions (such as Region, Product Category, Product Segment, etc.), it provides actionable insights into trends, opportunities, and strategies for improving business performance.
